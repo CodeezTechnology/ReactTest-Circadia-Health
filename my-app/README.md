@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `node server`
-Go to the backend folder directory in terminal and type `node server`. Node Js Server on (http://localhost:5000) this URL will up and run.
+Go to the backend folder directory in terminal and type `node server`. Node backend with Express server on (http://localhost:5000) this URL will up and run.
 
 Then
 
